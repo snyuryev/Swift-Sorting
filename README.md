@@ -37,3 +37,7 @@ Implementation for some sorting algorithms with Swift
     * Best case performance	О(n2)
     * Average case performance О(n2)
     * Worst case space complexity О(n) total, O(1) auxiliary
+
+
+More about Big O - http://bigocheatsheet.com
+
